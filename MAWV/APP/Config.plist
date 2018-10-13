@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>web_view_url</key>
+	<string>http://www.raidpr.com/clients/demo/mawv</string>
+	<key>google_sign_on</key>
+	<string>https://www.google.com/api</string>
+	<key>mail_chimp_url</key>
+	<string>https://YOURSITENAME.us12.list-manage.com</string>
+	<key>mail_chimp_post_url</key>
+	<string>htps://YOURSITENAME.us12.list-manage.com/subscribe/post</string>
+	<key>no_internet_alert_title</key>
+	<string>Failed Connection</string>
+	<key>no_internet_alert_body</key>
+	<string>Sorry, we were unable to establish an internet connection. Please try again.</string>
+	<key>show_launch_image</key>
+	<true/>
+	<key>allow_user_zoom</key>
+	<false/>
+	<key>progress_indicator</key>
+	<dict>
+		<key>show_progress</key>
+		<true/>
+		<key>indicator_color</key>
+		<string>#FFFFFF</string>
+		<key>background_color</key>
+		<string>#6195ff</string>
+		<key>corner_radius</key>
+		<integer>5</integer>
+	</dict>
+	<key>status_bar</key>
+	<dict>
+		<key>background_color</key>
+		<string>#6195ff</string>
+	</dict>
+	<key>disallow_url_list</key>
+	<array>
+		<string>m.facebook.com/Sony</string>
+		<string>twitter</string>
+		<string>instagram</string>
+		<string>vimeo</string>
+		<string>youtube</string>
+		<string>plus.google.com</string>
+		<string>linkedin</string>
+	</array>
+</dict>
+</plist>
