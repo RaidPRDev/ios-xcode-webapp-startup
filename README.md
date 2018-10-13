@@ -11,13 +11,11 @@ It comes packaged with:
 - simple cache management
 
 Real use case apps currently using this build:<br>
-[Aerial Video Awards Android](https://play.google.com/store/apps/details?id=com.ava.awards)<br>
 [Aerial Video Awards iOS](https://linkmaker.itunes.apple.com/en-us/details/1360880208)<br>
-[Bookme NZ Android](https://play.google.com/store/apps/details?id=air.com.wBOOKMEDISCOUNTS7734925)<br>
 [Bookme NZ iOS](https://linkmaker.itunes.apple.com/en-us/details/1435862603)<br>
 
-There is also an XCode startup project as well, see here:<br>
-[ios-xcode-webapp-startup](https://github.com/lavoe2k/ios-xcode-webapp-startup)<br>
+There is also an Android Studio startup project as well, see here:<br>
+[android-webapp-startup](https://github.com/lavoe2k/android-webapp-startup)<br>
 
 
 ## Prerequisites
