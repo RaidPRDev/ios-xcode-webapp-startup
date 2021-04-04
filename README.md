@@ -1,4 +1,4 @@
-![ios_logo](https://raidpr.secure.omnis.com/images/git/ios_128x128.png)
+![ios_logo](MAWV/APP/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png)
 # ios-xcode-webapp-startup-
 XCode Objective-C start up project, that allows you to create an ios webview application.
 
